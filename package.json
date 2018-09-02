@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nielsbom/acro_moves/issues"
   },
-  "homepage": "https://github.com/nielsbom/acro_moves#readme"
+  "homepage": "https://github.com/nielsbom/acro_moves#readme",
+  "devDependencies": {
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  }
 }
