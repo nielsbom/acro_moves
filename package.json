@@ -1,0 +1,19 @@
+{
+  "name": "acro_moves",
+  "version": "0.0.1",
+  "description": "A website that shows moves from partner acrobatics and acroyoga.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nielsbom/acro_moves.git"
+  },
+  "author": "Niels Bom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nielsbom/acro_moves/issues"
+  },
+  "homepage": "https://github.com/nielsbom/acro_moves#readme"
+}
